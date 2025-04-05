@@ -1,4 +1,4 @@
-For a brief report and introduction of the task visit [Go to README](report.md)
+For a brief report and introduction of the task visit [Go to report](report.md)
 
 There are several folders added each having a short description for tasks.
 
