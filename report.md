@@ -23,13 +23,13 @@ This project develops a tool to convert handwritten technical/mathematical scann
 - Simplify manual transcription  
 - Address OCR challenges in technical domains  
 
-![Sample Workflow](Blank%20diagram.png "Overall Workflow")
+![Sample Workflow](images/Blank%20diagram.png "Overall Workflow")
 
 ---
 
 ## Methodology
 **Architecture**  
-![TrOCR Architecture](trocr_architecture.jpg "TrOCR Model Architecture")
+![TrOCR Architecture](images/trocr_architecture.jpg "TrOCR Model Architecture")
 
 **Implementation Details**  
 1. **Dataset Preparation**: Used AlFrauch-im2latex, im2latex-100k, CROHME, and IAM datasets  
@@ -58,8 +58,8 @@ This project develops a tool to convert handwritten technical/mathematical scann
 - Developed multi-line text recognition approach  
 
 <div align="center">
-  <img src="image5.png" width="45%">
-  <img src="merged_1.png" width="45%">
+  <img src="images/image5.png" width="45%">
+  <img src="images/merged_1.png" width="45%">
 </div>
 
 ---
@@ -103,10 +103,10 @@ Special thanks to **Prof. B. Palaniappan** for guidance and course TAs for valua
 <div align="center">
   <div>
     <strong>GitHub Repository</strong><br>
-    <img src="imagex.png" width="150">
+    <img src="images/imagex.png" width="150">
   </div>
   <div>
     <strong>Demo Video</strong><br>
-    <img src="imagey.png" width="150">
+    <img src="images/imagey.png" width="150">
   </div>
 </div>
