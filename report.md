@@ -2,7 +2,7 @@
 
 <div style="display: flex; justify-content: center; gap: 10px;">
   <img src="images/Screenshot 2025-04-05 190824.png" width="300">
-  <img src="images/Screenshot 2025-04-05 190916.png" width="300">
+  <img src="images/Screenshot 2025-04-05 190916.png" width="500">
 </div>
 
 ## Abstract
