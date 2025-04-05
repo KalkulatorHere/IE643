@@ -1,3 +1,5 @@
+For a brief report and introduction of the task visit [Go to README](report.md)
+
 There are several folders added each having a short description for tasks.
 
 There are two branches and preprocessing branch contains preprocessing code for im2latex-100k 
