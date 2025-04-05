@@ -1,6 +1,9 @@
 # IE643 Course Project: Developing a Tool for Converting Raw Technical Handwritten Scanned Images into a LaTeX Document
 
-
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img src="images/Screenshot 2025-04-05 190824.png" width="300">
+  <img src="images/Screenshot 2025-04-05 190916.png" width="300">
+</div>
 
 ## Abstract
 This project develops a tool to convert handwritten technical/mathematical scanned images (including Greek/Latin symbols) into refined LaTeX documents with grammatical accuracy. We evaluate pre-trained models and fine-tune Microsoft's TrOCR on CROHME, im2latex, and IAM datasets to improve OCR performance for diverse handwriting styles and mathematical content. Enhancements focus on text orientation adaptation and transcription accuracy.
