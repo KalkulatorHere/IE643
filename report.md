@@ -98,7 +98,7 @@ This project develops a tool to convert handwritten technical/mathematical scann
 ---
 
 ## Acknowledgments
-Special thanks to **Prof. B. Palaniappan** for guidance and course TAs for valuable discussions.
+Special thanks to course TAs for valuable discussions.
 
 ---
 
